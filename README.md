@@ -9,7 +9,7 @@ Essa aplicação consiste em uma API REST que utilizando o protocolo HTTP que re
 desse modo tambémm foi realizado o CRUD de produtos.
 
 <h5>##Tecnologia Utilizada ↩️</h5>
-
+<ul>
 -Java ☕
 -InteliJ IDE
 -Spring Boot
@@ -18,6 +18,6 @@ desse modo tambémm foi realizado o CRUD de produtos.
 -Lombok
 -PostgreSQL
 -Swagger
-
+</ul>
 
 Diagrama de classe de domínio
