@@ -10,14 +10,14 @@ desse modo tambémm foi realizado o CRUD de produtos.
 
 <h5>##Tecnologia Utilizada ↩️</h5>
 
-Java ☕
-InteliJ IDE
-Spring Boot
-Spring Web
-Spring Data JPA
-Lombok
-PostgreSQL
-Swagger
+-Java ☕
+-InteliJ IDE
+-Spring Boot
+-Spring Web
+-Spring Data JPA
+-Lombok
+-PostgreSQL
+-Swagger
 
 
 Diagrama de classe de domínio
