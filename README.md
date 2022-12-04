@@ -1,4 +1,3 @@
-# project-supermarket
 
 <h1>LAB SUPERMARKET</h1> 
 
@@ -20,4 +19,16 @@ desse modo tambémm foi realizado o CRUD de produtos.
   <h5>-Swagger</h5>
 </ul>
 
-Diagrama de classe de domínio
+
+
+<h5>Diagrama de classe de domínio</h5>
+
+![projeto](https://user-images.githubusercontent.com/109558220/205517269-661bcb9b-2cb0-4dcb-871e-33056586a635.jpg)
+
+
+
+<h3>Como testar:</h3>
+
+<p>1- Faça o clone do reposótirio</p>
+<p>2- Execute a aplicação</p>
+<p>3- Acesse a documentação da aplicação em http://localhost:8081/swagger-ui/index.html </p>
